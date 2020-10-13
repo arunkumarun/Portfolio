@@ -1,0 +1,70 @@
+/* Color Palettes
+#1FAB89 - Dark Green
+#62D2A2 - Light Dark green
+#9DF3C4 - light green
+#D7FBE8 - Too light green
+#F0FFF3 - not pure white light green
+#343434 - dark gray
+*/
+
+/* Global
+-------------------------------*/
+body {
+	color: #343434;
+}
+
+img {
+	width: 300px;
+}
+
+a {
+	color: #FFB99A;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/* Profile
+-------------------------------*/
+header {
+	background-color: #1FAB89;
+	color: #F0FFF3;
+}
+
+/* Projects
+-------------------------------*/
+.projects {
+	background-color: #D7FBE8;
+}
+
+.projects .btn {
+	color: #FF6464;
+	background-color: #851D41;
+	text-decoration: none;
+	padding: 8px;
+	border-radius: 4px;
+}
+
+.projects .btn:hover {
+	background-color: rgba(133,29,65,80%);
+}
+
+/* Work Experience
+-------------------------------*/
+.work-experience {
+	background-color: #D7FBE8;
+}
+
+/* Education
+-------------------------------*/
+.educations {
+	background-color: #D7FBE8;
+}
+
+/* Contact
+-------------------------------*/
+footer {
+	background-color: #1FAB89;
+	color: #F0FFF3;
+}
